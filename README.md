@@ -7,5 +7,6 @@ The following machine learning techniques are used in this project:
 - K-nearest Neighbors (KNN)
 - Naive Bayes (NB)
 - Logistic Regression (LR).
+
 We then compare the results.
 
